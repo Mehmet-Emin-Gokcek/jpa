@@ -1,0 +1,1 @@
+Convert the following project, JDBCTemplate, https://www.javacodegeeks.com/2016/03/springboot-working-jdbctemplate.html (Links to an external site.) to Spring Data JPA to store and retrieve data in a relational database. The application needs to have a unit test. You may reuse the test case that you created for JDBCTemplate.
